@@ -49,3 +49,9 @@ navbar:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude:
+  - venv/
+  - .git/
+  - .github/
+  - node_modules/
