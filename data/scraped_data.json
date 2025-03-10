@@ -1,0 +1,122 @@
+[
+    {
+        "rank": "1",
+        "language": "Python",
+        "rating": "23.88%",
+        "change": "+8.72%"
+    },
+    {
+        "rank": "2",
+        "language": "C++",
+        "rating": "11.37%",
+        "change": "+0.84%"
+    },
+    {
+        "rank": "3",
+        "language": "Java",
+        "rating": "10.66%",
+        "change": "+1.79%"
+    },
+    {
+        "rank": "4",
+        "language": "C",
+        "rating": "9.84%",
+        "change": "-1.14%"
+    },
+    {
+        "rank": "5",
+        "language": "C#",
+        "rating": "4.12%",
+        "change": "-3.41%"
+    },
+    {
+        "rank": "6",
+        "language": "JavaScript",
+        "rating": "3.78%",
+        "change": "+0.61%"
+    },
+    {
+        "rank": "7",
+        "language": "SQL",
+        "rating": "2.87%",
+        "change": "+1.04%"
+    },
+    {
+        "rank": "8",
+        "language": "Go",
+        "rating": "2.26%",
+        "change": "+0.53%"
+    },
+    {
+        "rank": "9",
+        "language": "Delphi/Object Pascal",
+        "rating": "2.18%",
+        "change": "+0.78%"
+    },
+    {
+        "rank": "10",
+        "language": "Visual Basic",
+        "rating": "2.04%",
+        "change": "+0.52%"
+    },
+    {
+        "rank": "11",
+        "language": "Fortran",
+        "rating": "1.75%",
+        "change": "+0.35%"
+    },
+    {
+        "rank": "12",
+        "language": "Scratch",
+        "rating": "1.54%",
+        "change": "+0.36%"
+    },
+    {
+        "rank": "13",
+        "language": "Rust",
+        "rating": "1.47%",
+        "change": "+0.42%"
+    },
+    {
+        "rank": "14",
+        "language": "PHP",
+        "rating": "1.14%",
+        "change": "-0.37%"
+    },
+    {
+        "rank": "15",
+        "language": "R",
+        "rating": "1.06%",
+        "change": "+0.07%"
+    },
+    {
+        "rank": "16",
+        "language": "MATLAB",
+        "rating": "0.98%",
+        "change": "-0.28%"
+    },
+    {
+        "rank": "17",
+        "language": "Assembly language",
+        "rating": "0.95%",
+        "change": "-0.24%"
+    },
+    {
+        "rank": "18",
+        "language": "COBOL",
+        "rating": "0.82%",
+        "change": "-0.18%"
+    },
+    {
+        "rank": "19",
+        "language": "Ruby",
+        "rating": "0.82%",
+        "change": "-0.17%"
+    },
+    {
+        "rank": "20",
+        "language": "Prolog",
+        "rating": "0.80%",
+        "change": "+0.03%"
+    }
+]
